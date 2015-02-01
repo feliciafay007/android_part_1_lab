@@ -30,7 +30,6 @@ public class ActivityOne extends Activity {
     
     // You will need to increment these variables' values when their
     // corresponding lifecycle methods get called.
-    //private int mResume;
     private int mCreate = 0;
     private int mRestart = 0;
     private int mStart = 0;
