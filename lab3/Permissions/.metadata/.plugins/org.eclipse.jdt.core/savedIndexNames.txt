@@ -1,0 +1,13 @@
+INDEX VERSION 1.127+/Users/feliciafay/FeliciaAll/3Android/Coursera_Android_Part1/android_part_1_lab/lab3/Permissions/.metadata/.plugins/org.eclipse.jdt.core
+1295752830.index
+1602371858.index
+2547088650.index
+4035919995.index
+2064842249.index
+3838982423.index
+2465044537.index
+3017627511.index
+3030745704.index
+4189288607.index
+792163669.index
+623006088.index
